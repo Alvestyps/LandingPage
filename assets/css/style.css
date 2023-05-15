@@ -389,7 +389,11 @@ body, .full-width{
   .intro-content, .grid, .pricing-content {
     grid-template-columns: 1fr;
   }
-
+  
+.main-content h1,.top3-content h2,.grid-one-content h2, .pricing-content h2{
+  font-size: 4rem;
+  
+}
  .imgs {
   width: 100%;
   max-width:100%;
